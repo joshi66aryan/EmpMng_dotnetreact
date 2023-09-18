@@ -1,0 +1,8 @@
+
+@import 'mdb-react-ui-kit/dist/css/mdb.min.css';    /* for connecting with mdb-react-ui-kit */
+
+.invalid-field {
+    border-color: #dc3545;
+    color: #dc3545;
+    background-color: #fff
+}
